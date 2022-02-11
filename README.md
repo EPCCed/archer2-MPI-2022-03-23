@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br /><br />
 
-# ARCHER 2 MPI course (March 2021)
+# ARCHER2 MPI course (March 2022)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -56,7 +56,7 @@ MPI from Python.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates:</strong>17th, 22nd and 24th March 2021
+<p><strong>Dates:</strong>23rd, 24th and 30th March 2022
 <p><strong>Location:</strong>Online</p>
 
 <h3>Viewing Images on ARCHER2</h3>

@@ -123,7 +123,6 @@ correctly.</b>
 
 <ul>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/notes/MPP-notes.pdf">MPI course notes (historical)</a>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/notes/MPP-f90issues.pdf">Issues with non-blocking calls and f90 array syntax</a>
 </ul>
 
 <h3>Exercise Material</h3>

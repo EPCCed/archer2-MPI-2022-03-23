@@ -56,8 +56,8 @@ MPI from Python.
 
 <h2>Message Passing Programming with MPI</h2>
 
-<p><strong>Dates:</strong>23rd, 24th and 30th March 2022
-<p><strong>Location:</strong>Online</p>
+<p><strong>Dates: </strong>23rd, 24th and 30th March 2022
+<p><strong>Location: </strong>Online</p>
 
 <h3>Viewing Images on ARCHER2</h3>
 
